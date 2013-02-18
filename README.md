@@ -4,7 +4,7 @@ r2-in-cpp
 CPU SCHEDULING - ROUND ROBIN ALGORITHM
 By Zainab Ebrahimi
 
-cpuschedule class 
+cpuschedule class()
 This class provides the ability to create an object of class cpuschedule.
 A cpuschedule object has the capability to call two functions : Getdata()
 and RoundRobin(). It also defines variables only accesable within the class.
